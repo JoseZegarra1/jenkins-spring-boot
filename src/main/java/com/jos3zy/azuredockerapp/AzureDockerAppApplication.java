@@ -18,6 +18,6 @@ public class AzureDockerAppApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		logger.info("Running AzureDockerAppApplication run method");
+		logger.info("Running AzureDockerAppApplication run change");
 	}
 }
